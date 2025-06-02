@@ -14,7 +14,7 @@ This project aims to predict credit card defaults using the UCI "Default of Cred
 |---------------------------------------------------------------|-------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
 | MIS_451_Final_Project_Classification_Group_Code.ipynb          | Jupyter Notebook containing data preprocessing, feature engineering, model training, and evaluation. | [View Notebook](MIS_451_Final_Project_Classification_Group_Code.ipynb)              |
 | MIS 451_Final Project_Classification_Group Report.pdf          | Detailed project report explaining methodology, analysis, results, and business insights.        | [View Report](https://github.com/HugoBA25/Final_project_for_MIS_451---Credit_Card_Default_Classifications/blob/main/MIS%20451_Final%20Project_Classification_Group%20Report.pdf)          |
-| MIS 451_Final Project_Classification_Group Slides Presentation.pdf | Slide deck summarizing project workflow, model results, and key findings.                         | [View Slides](MIS%20451_Final%20Project_Classification_Group%20Slides%20Presentation.pdf) |
+| MIS 451_Final Project_Classification_Group Slides Presentation.pdf | Slide deck summarizing project workflow, model results, and key findings.                         | [View Slides](https://github.com/HugoBA25/Final_project_for_MIS_451---Credit_Card_Default_Classifications/blob/main/MIS%20451_Final%20Project_Classification_Group%20Slides%20Presentation.pdf) |
 
 ---
 
